@@ -1,0 +1,11 @@
+[
+  {
+    "firstName": "Will",
+    "lastName": "Sheppard",
+    "address": "1299 King St.",
+    "zip": 29405,
+    "interests": ["economic", "medical", "business"],
+    "likes": [],
+    "dislikes": []
+  }
+]
